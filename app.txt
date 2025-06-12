@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 여기에 confilct 테스트할거임
+=======
+merge에 confilct를 일으킨다
+>>>>>>> confilct_test
 
 testsdfsdfsdf
 testestestsetsetet2 
