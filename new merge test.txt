@@ -2,8 +2,4 @@
 
 asdasd
 
-<<<<<<< HEAD
-qweqwe
-=======
 squash test
->>>>>>> squash_test
